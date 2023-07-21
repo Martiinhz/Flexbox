@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(203, 201, 201);
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+
+div{
+    background-color: rgb(164, 161, 161);
+    width: 40%;
+    padding: 20px;
+}

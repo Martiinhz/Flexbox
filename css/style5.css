@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(224, 224, 224);
+    padding: 20px;
+    
+}
+
+main{
+    display: flex;
+    height: 100%;
+    background-color: rgb(186, 185, 185);
+    
+}
+
+nav{
+    background-color: grey;
+    width: 60%;
+    padding-top: 20px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+article{
+    width: 20%;
+}
+
+aside{
+    width: 20%;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(224, 224, 224);
+    padding: 20px;
+}
